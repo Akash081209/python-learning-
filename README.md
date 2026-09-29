@@ -1,39 +1,62 @@
-# Python Learning
+# Python
 
-A personal Python learning repository containing practice programs, concepts, and small projects.
+A structured record of my Python learning journey, from programming fundamentals to practical projects.
 
-## Structure
+## What This Repository Contains
 
-- `01-basics` — basic Python syntax and operators
-- `02-conditionals` — `if`, `else`, and logical conditions
-- `03-loops` — `while`, `break`, `continue`, and `range`
-- `04-strings` — common string methods and operations
-- `05-data-structures` — dictionaries and other data-structure practice
-- `06-built-in-functions` — useful built-in functions such as `len()`, `max()`, `min()`, `sorted()`, and `count()`
-- `10-projects` — mini-projects and larger practice programs
+- Core Python syntax and operators
+- Conditional logic
+- Loops and control flow
+- String operations
+- Dictionaries and data structures
+- Built-in functions
+- Exception handling
+- Small practice projects
 
-## Goal
+## Repository Structure
 
-Build Python fundamentals step by step and gradually move from small exercises to real projects.
+```text
+01-basics/              Core syntax and operators
+02-conditionals/        Conditional logic
+03-loops/               Loops and control flow
+04-strings/             String methods and operations
+05-data-structures/     Dictionary practice
+06-built-in-functions/  Built-in Python functions
+08-exceptions/          Exception handling
+10-projects/            Practice projects
+```
 
 ## Progress
 
-- [x] Python basics
+- [x] Python fundamentals
 - [x] Conditions
 - [x] Loops
 - [x] Strings
-- [x] Data structures
+- [x] Dictionaries
+- [x] Built-in functions
+- [x] Exception handling
 - [x] Small projects
 - [ ] Functions
-- [ ] Object-oriented programming
 - [ ] File handling
 - [ ] Modules and packages
-- [ ] Advanced Python
+- [ ] Object-oriented programming
+- [ ] Testing
+- [ ] APIs and JSON
+- [ ] Databases
+- [ ] Larger applications
 
-## How to Run
+## Running the Code
 
-Make sure Python 3 is installed, then run a file with:
+Install Python 3 and run any program with:
 
 ```bash
-python filename.py
+python path/to/program.py
 ```
+
+## Purpose
+
+This repository is intentionally a learning record: experiments, mistakes, improvements, and progressively more capable programs.
+
+---
+
+Building fundamentals before building bigger systems.
